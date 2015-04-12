@@ -1,0 +1,8 @@
+{
+  "name": "kobold-sample",
+  "version": "0.0.0",
+  "description": "Example for kobold",
+  "dependencies": {
+    "kobold": "~0.9.4"
+  }
+}
